@@ -1,5 +1,5 @@
 #!/bin/bash
-set -x
+set -e
 
 # This script creates an initial function once it ensures that the requirements
 # are installed.  The requirements are:
