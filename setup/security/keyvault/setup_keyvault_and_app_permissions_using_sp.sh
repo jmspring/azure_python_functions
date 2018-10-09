@@ -1,5 +1,4 @@
 #!/bin/bash
-set -x
 
 # This script creates a keyvault to be used with an Azure Function to store 
 # storage credentials.  It also creates a Service Principal for the Azure 
