@@ -10,7 +10,7 @@
 # Usage: setup_keyvault_and_app_permissions.sh <resource group> <keyvault name> <app name>
 
 # Verify the command line args:
-if [ "$#" -ne "4" ]; then
+if [ "$#" -ne "3" ]; then
     echo "Usage: setup_keyvault_and_app_permissions.sh <resource group> <keyvault name> <app name>"
     exit 1
 fi
